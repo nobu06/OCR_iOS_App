@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "aa51f752bba5473d5e9798db170987bf"
+build_time: [1553493067, 252550000]
+inputs:
+  "/Users/Nobuyuki/Desktop/iOS apps/LoveInASnap/LoveInASnap/ViewController.swift": [1553486751, 0]
+  "/Users/Nobuyuki/Desktop/iOS apps/LoveInASnap/LoveInASnap/AppDelegate.swift": [1503753790, 0]
